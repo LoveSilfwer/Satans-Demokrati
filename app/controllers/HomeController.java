@@ -5,6 +5,7 @@ import play.mvc.*;
 import views.html.*;
 
 /**
+ * test
  * This controller contains an action to handle HTTP requests
  * to the application's home page.
  */
